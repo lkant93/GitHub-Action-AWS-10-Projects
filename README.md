@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 01 — Basic Node.js CI
 
 ![CI Status](https://img.shields.io/github/actions/workflow/status/YOUR_ORG/github-actions-aws-cicd-learning/01-nodejs-basic-ci.yml?label=CI&logo=github-actions)
@@ -227,3 +228,7 @@ After each run, a **coverage report** is uploaded as an artifact:
 ## 📚 Next Steps
 
 ➡️ Move to **Project 02** to learn matrix builds with multiple Python versions and artifact uploading.
+=======
+# AIhub_daemon-
+AI related projects in this new world
+>>>>>>> ebf013a94d45841d49925fe9a116e1fa38a00af7
